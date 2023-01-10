@@ -26,7 +26,7 @@ description: This sample shows how to create a private AKS cluster using Terrafo
 urlFragment: private-aks-cluster-terraform-devops
 ---
 
-# Create a private Azure Kubernetes Service cluster using Terraform and Azure DevOps #
+### Create a private Azure Kubernetes Service cluster using Terraform and Azure DevOps #
 
 This sample shows how to create a [private AKS clusters](https://docs.microsoft.com/en-us/azure/aks/private-clusters) using:
 
